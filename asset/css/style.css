@@ -1,0 +1,217 @@
+.image-section{
+    height: 720px;
+    background-image: url("../images/laptop2.jpg") ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    position:relative;
+    box-shadow: 0px 0px 10px 0px black;
+    padding-bottom: 75px;
+}
+
+.navbar-brand{
+    padding-top: 75px !important;
+    
+}
+
+
+.text-block{
+    color: #fff;
+    padding-top: 250px;
+}
+.padding-0{
+    padding: 0px !important;
+}
+
+.image-section-icon{
+    height: 45px;
+    width: 45px;
+    background: red;
+    padding: 12px;
+    position: absolute;
+    right:0px;
+    top: 70px;
+    color: blue;
+    background-color: cornsilk;
+}
+
+.each-icon{
+    text-align: center;
+
+}
+/* .icon-img{
+    font-size: 60px;
+    border-radius: 150px;
+    color: darkblue;
+    background-color: white;
+} */
+
+.icon {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    border-radius: 150px;
+    border: 1px solid #dfdfdf;
+    height: 70px;
+    width: 70px;
+    font-size: 30px;;
+    padding-top: 10px;
+    color: yellowgreen;
+    padding-bottom: 10px;
+    }
+
+    .background-img{
+        background-image: url("../images/laptop1.jpg") ;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+        position:relative;
+        box-shadow: 0px 0px 10px 0px black;
+        
+
+    }
+
+    .text{
+        color: white;
+    }
+
+    .text em{
+        color: black;
+
+    }
+
+    .text-about {
+        text-align: center !important;
+        padding-top: 75px;
+    }
+
+    .our-service{
+        background-color: gray;
+        padding-bottom: 75px;
+        padding-top: 75px;
+    }
+    .what-we{
+        border-right: 2px solid blue;
+        padding-bottom: 75px;
+        
+    }
+
+    .recent-heading{
+        text-align: center !important;
+        padding-top: 75px;
+
+    }
+
+    .each-image{
+        padding: 0px;
+    }
+
+    .recent-image-section{
+        padding-top: 20px;
+        padding-bottom: 75px;
+    }
+
+    .team-member{
+        text-align: center;
+        padding-bottom: 75px;
+    }
+
+    .our-team{
+        text-align: center;
+        padding-top: 75px;
+    }
+
+    .background-picture{
+        background-image: url("../images/laptop2.jpg") ;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+        position:relative;
+        box-shadow: 0px 0px 10px 0px black;
+    }
+
+    .text-theme{
+        color: black; 
+        padding-top: 75px; 
+        padding-bottom: 75px;
+    }
+
+.social-icon div{ 
+    background: #f9f9f9;
+    color: #FF4181;
+    margin-right: 10px;
+    text-align: center;
+    padding-top: 8px;
+    border-radius: 50%;
+    box-shadow:  0px 0px 2px 1px #FF4181;
+    width: 40px;
+    display: inline-block;
+    height: 40px;
+
+    }
+
+
+
+.info-review{
+    position: relative;
+    padding-top: 75px;
+    padding-bottom: 75px;
+    text-align: center;
+}
+
+.review{
+    border: 10px solid grey;
+    padding: 0px;
+    text-align: justify;
+    }
+
+.review img{
+   position: absolute;
+   height: 120px;
+   width: 120px;
+   bottom: 25px;
+   right: 92%;
+   float: right;
+   border-radius: 50%;
+   box-shadow: 0px 0px 2px 1px gray;
+   text-align: justify;
+   z-index: 1;
+}    
+
+.contact-text{
+    
+}
+
+.contact name{
+    padding: 75px;
+}
+
+.about-lt{
+    padding-top: 100px;
+    background-color: grey;
+    text-align: justify;
+    left: 15px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
